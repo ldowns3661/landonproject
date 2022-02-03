@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "Sprite2",
+    "path": "sprites/Sprite2/Sprite2.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -25,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object1",
+  "name": "oFloor",
   "tags": [],
   "resourceType": "GMObject",
 }
